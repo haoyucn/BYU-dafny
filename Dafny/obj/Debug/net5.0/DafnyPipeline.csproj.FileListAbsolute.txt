@@ -1,0 +1,15 @@
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/DafnyPrelude.bpl
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/DafnyRuntime.cs
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/DafnyPipeline.deps.json
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/DafnyPipeline.dll
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/ref/DafnyPipeline.dll
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/DafnyPipeline.pdb
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/DafnyRuntime.dll
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/bin/Debug/net5.0/DafnyRuntime.pdb
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/obj/Debug/net5.0/DafnyPipeline.csprojAssemblyReference.cache
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/obj/Debug/net5.0/DafnyPipeline.GeneratedMSBuildEditorConfig.editorconfig
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/obj/Debug/net5.0/DafnyPipeline.csproj.CoreCompileInputs.cache
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/obj/Debug/net5.0/DafnyPipeline.csproj.CopyComplete
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/obj/Debug/net5.0/DafnyPipeline.dll
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/obj/Debug/net5.0/ref/DafnyPipeline.dll
+/home/haoyu/Documents/cs329/advanced/dafny/Source/Dafny/obj/Debug/net5.0/DafnyPipeline.pdb
